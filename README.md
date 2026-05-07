@@ -18,6 +18,16 @@ A professional-grade React application for generating and printing digital gasol
 
 The Gasoline Receipt Generator is a specialized web tool designed to streamline the creation of transaction receipts for fuel purchases. It addresses the need for accurate, customizable, and professional-looking receipts for accounting, expense tracking, and personal record-keeping. Built with modern web technologies, the application provides a robust interface for managing gas station profiles and generating high-resolution digital outputs compatible with various printing standards.
 
+## Disclaimer
+
+**EDUCATIONAL PURPOSE ONLY**
+
+This software is developed strictly for educational and developmental purposes to demonstrate modern web application capabilities, state management, and direct browser printing techniques.
+
+**IT IS STRICTLY PROHIBITED TO USE THIS SOFTWARE FOR ANY FRAUDULENT, ILLEGAL, OR SCAM ACTIVITIES.**
+
+The author assumes no responsibility for any misuse of this software. By using this application, you agree to use it responsibly and in accordance with all applicable laws and regulations.
+
 ## Features
 
 - **Customizable SPBU Directory** - Store and manage multiple gas station configurations including names, addresses, and unique identifiers
@@ -141,4 +151,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Reynaldi Arya
+Originally Created by Ferdy Brawijaya Modified and Improved by Reynaldi Arya
